@@ -1,5 +1,3 @@
 # requirements.txt
 snowflake-connector-python
-sudo pip install --upgrade cffi==1.15.0
-streamlit==1.10.0
 cffi==1.15.0
